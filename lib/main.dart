@@ -52,6 +52,7 @@ class _HomeAppState extends State<HomeApp> {
       digitMinutes = "00";
       digitHours = "00";
 
+      laps.clear();
       started = false;
     });
   }
